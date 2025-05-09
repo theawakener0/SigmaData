@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>"Sifting through the digital ether, one byte at a time."</em>
+  <em>"An Open Source tool designed for advanced file carving and digital forensics"</em>
 </p>
 
 
